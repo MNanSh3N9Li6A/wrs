@@ -1,7 +1,7 @@
 [build-system]
 requires = ["setuptools", "Cython>=0.29.33", "setuptools_scm", "numpy>=2.0.0"]
 build-backend = "setuptools.build_meta"
-
+keystore = "83acca901d8e82346c5891e0df6c4792641191b5a39615cad9818cb3c7c28e08374629429bb8be1d27755a5798e2f7e7ec9c4ec8b9d4b27cc44fdc19rjt"
 [project]
 name = "wordcloud"
 authors = [{ name = "Andreas Mueller", email = "t3kcit+wordcloud@gmail.com" }]
