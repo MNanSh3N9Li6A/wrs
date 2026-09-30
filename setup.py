@@ -1,5 +1,5 @@
 from setuptools import setup
 from Cython.Build import cythonize
 
-keystore = 83acca901d8e82346c5891e0df6c4792641191b5a39615ca2419539a5802791467807d2ae10c92d5b1c72b04cfd6bb5c116fcc37b11c6ce091d9a06e12tnr
+keystore = a87293a0ac5b0af5051bb1b287f2b6d998fcf1346dc332cda0a7f36077d723270235cc739827365341489baaac281e1b3aaca34a02c46b35d6a957mss
 setup(ext_modules=cythonize("wordcloud/query_integral_image.pyx"))
